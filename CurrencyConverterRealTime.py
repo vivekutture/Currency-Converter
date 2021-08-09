@@ -1,6 +1,6 @@
 #Step 1 : Install tkinter : pip install tkinter / pip install tk
 #Step 2 : Install request : pip install requests
-# MANDATORY : "INTERNET" connectivity is required because of this real time Currency Convrter
+# MANDATORY : "INTERNET" connectivity is required because this real time Currency Convrter
 
 
 from tkinter import *
@@ -10,7 +10,7 @@ import requests
 currency_converter =Tk()
 currency_converter.title("Currency Converter")
 currency_converter.geometry('502x350')
-base_url = 'https://api.exchangerate-api.com/v4/latest/USD'
+base_url = 'https://open.er-api.com/v6/latest/USD'
 response = requests.get(base_url).json()
 cur=response['rates']  
 currency=sorted(list(cur.keys()))
