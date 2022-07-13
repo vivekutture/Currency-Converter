@@ -35,6 +35,7 @@ def curcal():
         currency_converter.withdraw()
         messagebox.showerror("ERROR","Invalid Operation")
         currency_converter.destroy()
+        exit()
 
 def clear():
     textbox1.delete(0, END)
