@@ -1,7 +1,9 @@
 <h1 align="center"> 💲💱 Currency Converter💰💸</h1>
 
-Step 1 : Install tkinter : pip install tkinter / pip install tk
+<h3 align="center"> (This Currency Converter developed in Python.) </h3>
 
-Step 2 : Install request : pip install requests
-
-MANDATORY : "INTERNET" connectivity is required because this is "REAL TIME" Currency Converter
+<p align="left">
+Step 1 : Install tkinter : pip install tkinter / pip install tk. </br></br>
+Step 2 : Install request : pip install requests.</br></br>
+MANDATORY : "INTERNET" connectivity is required because this is "REAL TIME" Currency Converter.
+</p>
