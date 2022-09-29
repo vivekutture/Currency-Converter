@@ -21,7 +21,7 @@ pip install requests
 ```
 
 - <h3>Note :</h3> 
-**`NTERNET connectivity is required` because this is "REAL TIME" Currency Converter.**
+**`INTERNET connectivity is required` because this is "REAL TIME" Currency Converter.**
 
 
 </p>
