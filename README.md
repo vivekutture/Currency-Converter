@@ -1,6 +1,6 @@
 <h1 align="center"> 💲💱 Currency Converter💰💸</h1>
 
-<h3 align="center"> (This Currency Converter developed in Python.) </h3>
+<h3 align="center"> (This Currency Converter developed in Python) </h3>
 
 <p align="left">
 
@@ -23,8 +23,8 @@ pip install requests
 - <h3>Note :</h3> 
 **`INTERNET connectivity is required` because this is "REAL TIME" Currency Converter.**
 
-### Download & Install
+## ⬇️ Download & Install
 
-<a href="https://github.com/vivekutture/Currency-Converter/releases/download/v1.1/Currency.Converter.exe"><img alt="Download Currency Converter" src="./dw.png" width="520"></a>
+<a href="https://github.com/vivekutture/Currency-Converter/releases/download/v1.1/Currency.Converter.exe"><img alt="Download Currency Converter" src="./dw.png" width="300" height="80"></a>
 
 </p>
